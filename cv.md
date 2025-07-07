@@ -1,5 +1,5 @@
 # Frontend Developer 
-
+----------
 ## Soft skills
 * I interact effectively with other team members 
 * I meet deadlines
