@@ -9,8 +9,7 @@ body {
   box-sizing: border-box;
 }
 
-.parent {
-  display: grid;
-  place-items: center;
-  height: 100vh;
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
 }
