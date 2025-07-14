@@ -73,3 +73,14 @@ a:hover {
   letter-spacing: 5px;
   color: #493ded;
 }
+
+.image {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;         /* для круглой формы */
+  border: 2px solid #ccc;     /* тонкая аккуратная рамка */
+  box-shadow: 0 0 10px rgba(0,0,0,0.1); /* лёгкая тень */
+  margin: 20px auto;          /* отступ и центрирование */
+  display: block;
+}
